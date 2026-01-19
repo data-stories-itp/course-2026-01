@@ -1,4 +1,4 @@
-# [course-2025-03](https://github.com/data-stories-itp/course-2025-03)
+# [course-2026-01](https://github.com/data-stories-itp/course-2026-01)
 
 # Data Storytelling for Memory Making and Social Resilience
 
@@ -8,11 +8,11 @@ Inspired by
 
 ## Lecture
 
-- Topics in ITP (11425) - Data Storytelling for Memory Making and Social Resilience (Lecture)
-- ITPG-GT 2379 006
-- 03/17/2025 - 05/5/2025
-- 3:20 PM - 5:50 PM M
-- 370 Jay St Room 411 Loc: Brooklyn Campus
+- Topics in ITP (9280) - Data Storytelling for Memory (Lecture)
+- ITPG-GT 2379 011
+- 1/22/2026 - 3/5/2026
+- 12:20 PM - 2:50 PM Th
+- 370 Jay St Room 410 Loc: Brooklyn Campus
 
 Instructors: John Henry Thompson; Shindy M. Johnson
 
@@ -67,35 +67,35 @@ Students can choose to participate as creatives, artists, javascript coders, p5j
 
 Students will participate in lectures, research, discussion groups, hands on design and build activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
 
-**[Week 1 (2025/03/17)](week/01.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for inspiration and for social justice.
+**[Week 1 (2026/01/22)](week/01.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for inspiration and for social justice.
 
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
-**[Week 2 (2025/03/31)](week/02.md)** Lecture: Data literacy and accessible tools for data storytelling. Contemporary issues of public data. The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
+**[Week 2 (2026/01/29)](week/02.md)** Lecture: Data literacy and accessible tools for data storytelling. Contemporary issues of public data. The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
 
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3 (2025/04/07)](week/03.md)** Lecture: Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
+**[Week 3 (2026/02/05)](week/03.md)** Lecture: Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodal data storytelling. Considerations for designing data visualizations. Decoding data visualizations.
 
 <!-- Our visiting artist is Ekene Ijeoma [Studio Ijeoma](https://studioijeoma.com/) Ekene Ijeoma is an artist, Assistant Professor of Media Arts and Sciences at MIT, and Director of Poetic Justice Group. -->
 
 <!-- Early Pioneers of Data Visualization. -->
 
-**[Week 4 (2025/04/14)](week/04.md)** Lecture: Vizualization considerations when working with big data, small personal data, data art. Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
+**[Week 4 (2026/02/12)](week/04.md)** Lecture: Vizualization considerations when working with big data, small personal data, data art. Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
 
 <!-- Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class. -->
 
-**[Week 5 (2025/04/21)](week/05.md)** Lecture: The value of stories. Data Visualization: Paragraph or Picture? Researching, documenting and citing data sources.
+**[Week 5 (2026/02/19)](week/05.md)** Lecture: The value of stories. Data Visualization: Paragraph or Picture? Researching, documenting and citing data sources.
 
 **Final Project:** Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo.
 
-**[Week 6 (2025/04/28)](week/06.md)** Lecture: Small Data, Personal Data: Examining the work of Giorgia Lupi. More on documentation and citation.
+**[Week 6 (2026/02/26)](week/06.md)** Lecture: Small Data, Personal Data: Examining the work of Giorgia Lupi. More on documentation and citation.
 
 **Final Projects:** Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo.
 
 <!-- **Visitor and Guest Speaker:** Tyler Peppel Founder and CEO of Tickr.com -->
 
-**[Week 7 (2025/05/05)](week/07.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo.
+**[Week 7 (2026/03/05)](week/07.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo.
 
 **[Data Viz Student Curated](week/Data_Vizzies.md)**
 
